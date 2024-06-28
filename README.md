@@ -48,25 +48,34 @@ The Employee Management System is a robust application designed to streamline an
     cd employee-management-system
     ```
 
-### Running the Application
-
-1. Build the project:
-    ```bash
-    mvn clean install
-    ```
-2. Run the Spring Boot application:
-    ```bash
-    mvn spring-boot:run
-    ```
-3. Open your web browser and navigate to `http://localhost:8080` to access the application.
 
 ## Screenshots
-
-![Homepage](screenshots/homepage.png)
+![Homepage](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/5723946e-e947-4755-9e70-b5cb574852ce)
 *Caption: The homepage of the Employee Management System.*
 
-![Login Page](screenshots/login.png)
-*Caption: The secure login page.*
+![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/575aa428-a45c-4f82-a234-04ca0ce4f8c1)
+*Caption: Login Dashboard.*
+
+![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/9a1b5ee4-92d3-462f-a3f3-9123b84c9536)
+*Caption: Main Page.*
+
+![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/ee1f8da6-8ba5-4492-a8a7-6db655cd22e9)
+*Caption: Add Employee functionality.*
+
+![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/c731f18d-4863-4f18-a06a-ea0925a02bc3)
+*Caption: Update employee.*
+
+![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/2eabe112-43b6-4f02-b12d-618bbfdffbbe)
+*Caption: remove employee functionality.*
+
+
+
+
+
+
+
+
+
 
 
 
